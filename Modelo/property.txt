@@ -1,0 +1,9 @@
+
+## DRIVER
+valor.driver=org.mariadb.jdbc.Driver
+## SERVIDOR
+valor.servidor=jdbc:mariadb://localhost:3306/bdpi
+## USER
+valor.user=gestion
+## PASS
+valor.pass=jmls
